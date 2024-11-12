@@ -2,6 +2,9 @@
 
 This project automates the daily tasks of Threat Intelligence Analyzer role **internally** without external resources' interaction. It analyzes, visualizes and structures **sensitive** files (Malware) or data by extracting features, artifacts and IoC using different modules. The output of those modules can be easily integrated in your research or SOC platforms.
 
+## Machine Tested on
+Ubuntu 20.04.6 LTS
+
 ## Install
 ```git clone https://github.com/qeeqbox/analyzer.git && cd analyzer &&  chmod +x run.sh && ./run.sh auto_configure```
 
